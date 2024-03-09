@@ -1,4 +1,4 @@
-This repository contains the interactive dashboard on "Sales Insights" 
+This repository contains the interactive dashboard on **"Bank Loan Analysis"** 
 
 The project aims to develop a comprehensive loan management system with a focus on monitoring key performance indicators (KPIs) related to loan applications, funded amounts, amount received, average interest rates, and debt-to-income ratios. The system will include various data visualization tools such as charts and grids to provide insights into lending trends, regional analysis, loan term distribution, borrower employment lengths, loan purposes, and home ownership impact.
 
